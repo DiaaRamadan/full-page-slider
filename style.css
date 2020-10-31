@@ -1,0 +1,13 @@
+.slider{
+    display: flex;
+    max-width: 100%;
+    overflow: hidden;
+    width: 90%;
+    margin: auto;
+    align-items: center;
+}
+.slider .item{
+    width: 100%;
+    transition: all 0.5s ease-in-out;
+    padding: 20px;
+}
